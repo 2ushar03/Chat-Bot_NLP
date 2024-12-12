@@ -1,0 +1,43 @@
+{
+  "id": "3794859e-841a-4d3a-9968-ad65d97ee1bd",
+  "name": "new.order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ongoing-order",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great! Let\u0027s start your order. 😊 Just let me know what you\u0027d like to order and how many of each item. For example, you can say, \"I\u0027d like two Momos and one Mango Juice.\" Here\u0027s the menu to choose from:\n\nIce Cream\nPav Bhaji\nCake and Dessert\nMasala Dosa\nIdli Vada\nMango Juice\nMomos\nMargreta Pizza\nVeg Roll\nRice Plate (Includes dal, sabji, rice, roti, and pickle)\nWhat are you in the mood for today? Let me know the items and quantities you\u0027d like, and we\u0027ll get your order ready! 🍽️",
+            "Welcome! Ready to place your order? 😄 Just tell me what you’d like to have and how many. For example, you can say, \"I’d like one Veg Roll and two Ice Creams.\" Here’s what we have on the menu:\n\nIce Cream\nPav Bhaji\nCake and Dessert\nMasala Dosa\nIdli Vada\nMango Juice\nMomos\nMargreta Pizza\nVeg Roll\nRice Plate (Dal, sabji, rice, roti, and pickle included)\nWhat sounds good to you? Let me know your order and I’ll take care of the rest! 🍴",
+            "Let’s start your order! 😊 Tell me what you\u0027d like to enjoy, and how many you want. For example, you could say, \"I’ll have one Masala Dosa and two Momos.\" Here’s the menu to choose from:\n\nIce Cream\nPav Bhaji\nCake and Dessert\nMasala Dosa\nIdli Vada\nMango Juice\nMomos\nMargreta Pizza\nVeg Roll\nRice Plate (Dal, sabji, rice, roti, and pickle included)\nWhat do you feel like having? Just let me know and I’ll add it to your order! 😋",
+            "Let\u0027s get your order started! 🎉 Just tell me what you’d like to order and how much of each. For example: \"Two Pav Bhajis and one Mango Juice.\" Here’s the menu to pick from:\n\nIce Cream\nPav Bhaji\nCake and Dessert\nMasala Dosa\nIdli Vada\nMango Juice\nMomos\nMargreta Pizza\nVeg Roll\nRice Plate (Includes dal, sabji, rice, roti, and pickle)\nWhat can I get for you today? Feel free to mix and match!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

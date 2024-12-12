@@ -1,0 +1,1 @@
+SELECT * FROM restaurant_data.food_items;

@@ -1,0 +1,171 @@
+[
+  {
+    "id": "349917a5-60d8-4fb9-891c-ae25adcec1d1",
+    "data": [
+      {
+        "text": "Status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "14a0b2a6-3adb-4fe2-b68b-134eced0fe90",
+    "data": [
+      {
+        "text": "Where\u0027s my package?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1768b902-14de-48cc-bd77-fde2555970ab",
+    "data": [
+      {
+        "text": "Where\u0027s my delivery?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "380cac77-eed5-4e4e-976d-ec892a2c7fce",
+    "data": [
+      {
+        "text": "Order tracking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bfe9de84-edd2-4c1b-a897-df06862da29a",
+    "data": [
+      {
+        "text": "Check my order status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54b4e367-d79b-4991-a64f-3483853d4d60",
+    "data": [
+      {
+        "text": "Track my shipment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c4423d66-9c92-4c23-bbad-5c3d7f67abc3",
+    "data": [
+      {
+        "text": "track order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0bfa2c06-c8b4-4607-9841-f311e273d5a2",
+    "data": [
+      {
+        "text": "track existing order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eec2a41c-af9c-4f86-8aa2-f623c9a243b2",
+    "data": [
+      {
+        "text": "How do I know where my order is?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9710bc5c-e7b6-4841-8856-6aab6788be0f",
+    "data": [
+      {
+        "text": "Can you update me on my order\u0027s progress?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7f79150-3ae3-4859-85df-a9974e79aeba",
+    "data": [
+      {
+        "text": "I\u0027d like to track my current order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80c6ec82-a889-42f9-9f71-10161d83eb0a",
+    "data": [
+      {
+        "text": "Where is my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f858982f-6d23-40cf-a5cb-22fcaa6dab93",
+    "data": [
+      {
+        "text": "Can I check the status of my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

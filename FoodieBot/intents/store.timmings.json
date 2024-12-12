@@ -1,0 +1,35 @@
+{
+  "id": "39c12c79-adde-4bdc-85d0-f0c7402d599f",
+  "name": "store.timmings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Monday - Thursday: 9:00 AM - 6:00 PM (Standard hours)\nFriday: 9:00 AM - 7:00 PM (Extended for families)\nSaturday: 10:00 AM - 8:00 PM (Weekend hours)\nSunday: 10:00 AM - 6:00 PM (Family-focused)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

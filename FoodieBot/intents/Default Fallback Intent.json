@@ -1,0 +1,37 @@
+{
+  "id": "ffefee18-9ca7-4f8b-90e0-131c16b45652",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I’m here to help! Are you interested in our menu items, nutritional information, or something else?",
+            "It sounds like you might need help ordering. Would you like to know about our available dishes or promotions?",
+            "I can guide you through placing an order. Would you like to see our full menu, or do you already know what you’d like?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

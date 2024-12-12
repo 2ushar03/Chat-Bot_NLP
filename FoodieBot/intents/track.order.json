@@ -1,0 +1,47 @@
+{
+  "id": "721d7dad-1f40-4aae-941a-15feb417d8f8",
+  "name": "track.order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ongoing-tracking",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I’ll track your order for you. Just let me know the order number, and I’ll provide the details.",
+            "What is the order id?",
+            "Sure.What\u0027s your order id?",
+            "Definitely. What is your order id?",
+            "Please enter your order ID.",
+            "Give me your order ID to check the status.",
+            "I need your order ID to track it.",
+            "Please give me the order number."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

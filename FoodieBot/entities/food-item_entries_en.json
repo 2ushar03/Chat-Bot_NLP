@@ -1,0 +1,88 @@
+[
+  {
+    "value": "Ice Cream",
+    "synonyms": [
+      "Ice Cream",
+      "Dessert",
+      "Frozen",
+      "Sweet",
+      "Cone"
+    ]
+  },
+  {
+    "value": "Paav Bhaji",
+    "synonyms": [
+      "Paav Bhaji",
+      "Bhaji Paav"
+    ]
+  },
+  {
+    "value": "Cake And Desert",
+    "synonyms": [
+      "Cake And Desert",
+      "Pastry"
+    ]
+  },
+  {
+    "value": "Masala Dosa",
+    "synonyms": [
+      "Masala Dosa",
+      "Dosa",
+      "Pancake"
+    ]
+  },
+  {
+    "value": "Idli Vada",
+    "synonyms": [
+      "Idli Vada",
+      "Rice cakes",
+      "Vada Idli"
+    ]
+  },
+  {
+    "value": "Mango Juice",
+    "synonyms": [
+      "Mango Juice",
+      "Smoothie",
+      "Coca Cola",
+      "Pepsi",
+      "Red Bull"
+    ]
+  },
+  {
+    "value": "Momos",
+    "synonyms": [
+      "Momos",
+      "Dumplings",
+      "Steamed"
+    ]
+  },
+  {
+    "value": "Margreta Pizza",
+    "synonyms": [
+      "Margreta Pizza",
+      "Pizza",
+      "Cheese Pizza",
+      "Tomato Pizza"
+    ]
+  },
+  {
+    "value": "Veg Roll",
+    "synonyms": [
+      "Veg Roll",
+      "Veg Wraps",
+      "Roll",
+      "Rolls"
+    ]
+  },
+  {
+    "value": "Rice Plate",
+    "synonyms": [
+      "Rice Plate",
+      "Meal",
+      "Veg Thali",
+      "Full Meal",
+      "Dal-Roti Combo"
+    ]
+  }
+]
