@@ -1,7 +1,0 @@
-llama
-torch
-langchain
-sentence-transformers
-chromadb
-pymupdf
-llama-cpp-python
